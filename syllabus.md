@@ -62,7 +62,10 @@ The course grade is based on the following:
 
 # Course Requirements:
 
-Students are expected to complete readings, class modules, participate in discussion, and submit weekly assignments and final project. Important information will be distributed through the course site and via email. It is important that you check your email regularly.
+Students are expected to complete readings, class modules, participate in discussion, and submit weekly assignments and final project. Important information will be distributed through the course site and via email. It is important that you check your email regularly.  
+
+Noted that these are minimum reading requirements. Other readings relating to software usage, python documentation, python libraries documentation and case studies will be assigned in the lecture modules.  
+
 
 Technology Requirements
 
@@ -89,6 +92,7 @@ This may be updated throughout the semester; any changes will be announced with 
 Topics:  
   - Introduction to programming and python  
   - Running Python, writing Python, and understanding basic data types  
+
 Readings:    
   - Think Python Chapters 1-2  
   - [markdown tutorial](https://commonmark.org/help/)   
