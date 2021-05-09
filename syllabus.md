@@ -8,15 +8,15 @@ Instructor: Shiqin Liu
 Email: liu.shiqi@northeastern.edu  
 Format: asynchronous online  
 
-## Course Description:
+# Course Description:
 
 This course is intended for graduate students in public policy and public administration who have little or no programming experience. It provides students with an understanding of the Python programming language and introduce toolkits for use in public and nonprofit sector settings. The course is designed to help students feel confident of their ability to write small programs and accomplish professional goals. We will use Python and Jupyter notebook to introduce coding and practical application using Python that students can reproduce and experiment with.
 
-## Prerequisites
+# Prerequisites
 
 This course proceeds from the ground up, and introduces all necessary concepts along the way. Students of all backgrounds are welcome if they are ready to put the work to acquire new skills on a weekly basis. Yet, it is important to note that this course will introduce programming toolkit for basic quantitative analysis, meaning that students will be better off coming with at least some familiarity (or willing to put in the hard work) with either statistics or programming.
 
-## Course Format:
+# Course Format:
 
 We follow a weekly structure, where each week consist of one or more modules of learning materials. All the online materials are contained within the course website on Canvas, and that is the primary platform through which the students will interact with the course content.
 
@@ -26,7 +26,7 @@ In addition to the weekly assignment, there will be a final project that require
 
 Guidelines for completing and submitting each assignment will be posted along with the weekly module. All due dates and times are in Eastern Standard Time (EST), so plan to complete all assignments accordingly. Please note that if you are unable to complete an assignment within the time period provided, a documented compelling excuse is required prior to the deadline. For excuses to be valid they have to anticipate the due date, except for unavoidable emergencies. Otherwise, late submissions that are not properly excused will be discounted by 25% of the total grade per each late day.
 
-## Course Objectives:
+# Course Objectives:
 
 This course is based on the practical aspects of learning the basics of Python and applying it for use in the public and nonprofit settings. By the end of this course, you will:
 
@@ -47,7 +47,7 @@ This course is based on the practical aspects of learning the basics of Python a
 
 Other copyrighted course reading materials are available via the course Canvas site for enrolled students to download.
 
-## Evaluation and Grading:
+# Evaluation and Grading:
 
 The course grade is based on the following:
 
@@ -60,7 +60,7 @@ The course grade is based on the following:
 - Final project: 30%
   - Details will follow mid-way through the term
 
-## Course Requirements:
+# Course Requirements:
 
 Students are expected to complete readings, class modules, participate in discussion, and submit weekly assignments and final project. Important information will be distributed through the course site and via email. It is important that you check your email regularly.
 
@@ -72,7 +72,7 @@ Technology Requirements
   - Anaconda
   - Atom
 
-## If you have questions:
+# If you have questions:
 
 - Check the reading, lecture materials or Python Documentation
 - Ask Google: &quot;Python 3 how do I nnnn&quot;
@@ -81,11 +81,11 @@ Technology Requirements
 - Email or Office hours by appointment
 
 
-## Course Summary:
+# Course Summary:
 This may be updated throughout the semester; any changes will be announced with sufficient lead time. All times are in Eastern Standard Time (EST)
 
-### Week1
-#### Welcome to the Course! Introduction to Python 1
+## Week1
+**Welcome to the Course! Introduction to Python 1**
 Topics:  
   - Introduction to programming and python  
   - Running Python, writing Python, and understanding basic data types  
@@ -94,7 +94,7 @@ Readings:
   - [markdown tutorial](https://commonmark.org/help/)   
   - [JupyterLab](https://jupyterlab.readthedocs.io/) getting started and user guide "interface" and "notebooks" sections   
 
-### Week2
+## Week2
 **Introduction to Python 2**  
 Topics:  
   - Basic data structures and containers (lists, tuples, dictionaries etc.)   
@@ -103,7 +103,7 @@ Topics:
 Readings:    
   - Think Python Chapters 10-12, 3-7
 
-### Week3
+## Week3
 **Working with data**  
 Topics:  
   - Introduction to Pandas and working with dataframe   
@@ -112,7 +112,7 @@ Topics:
 Readings:    
   - Python for Data Analysis Chapter 4-8
 
-### Week4
+## Week4
 **Practical Application 1**    
 Topics:  
   - Descriptive statistics and data visualization   
@@ -120,7 +120,7 @@ Topics:
 Readings:    
   - Python for Data Analysis Chapter 9-10  
 
-### Week5
+## Week5
 **Practical Application 2**    
 Topics:  
   - Querying APIs and scraping for public open data   
@@ -128,7 +128,7 @@ Topics:
 Readings:    
   - Park. 2019. How Do APIs Work? Tray.io.  
 
-### Week6
+## Week6
 **Practical Application 3**    
 Topics:  
   - Spatial analysis and mapping  
@@ -138,7 +138,7 @@ Readings:
   - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9.  
   - Boeing and Arribas-Bel. 2021. GIS and Computational Notebooks. In: The Geographic Information Science & Technology Body of Knowledge, edited by J.P. Wilson.
 
-### Week7
+## Week7
 **Practical Application 4**    
 Topics:  
   - Inferential statistics and regression   
@@ -147,14 +147,14 @@ Readings:
   - Urdan, Statistics in Plain English, ch. 8, 9, 13.  
   - Rule A, Birmingham A, Zuniga C, Altintas I, Huang S-C, Knight R, et al. (2019) Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks. PLoS Comput Biol 15(7)  
 
-### Week8  
+## Week8  
 **Final**   
 
 
-## Code of conduct
+# Code of conduct
 
 Students must adhere to Northeastern University honor code. Writing code is different from writing essays: it is standard practice to find individual functions or google things that don not work, and copy a line or two from the manual or stack overflow. You can discuss or work with each other in the course to solve homework problems, yet you absolutely should not copy code from your classmates. Your work should be original. Plagiarism, copying from other students, or submitting the work of someone not in the program are grounds for expulsion from the course.
 
-## Anti-discrimination policy
+# Anti-discrimination policy
 
 Northeastern is committed to providing equal opportunity to its students and employees, and to eliminating discrimination when it occurs.  In furtherance of this commitment, the University strictly prohibits discrimination or harassment on the basis of race, color, religion, religious creed, genetic information, sex, gender identity, sexual orientation, age, national origin, ancestry, veteran, or disability status. The Northeastern University [Title IX policy](http://www.northeastern.edu/policies/pdfs/Title_IX_Policy.pdf) articulates how the University will respond to reported allegations of sexual harassment involving students, including sexual assault, and provides a consolidated statement of the rights and responsibilities under University policies and Title IX, as amended by the Violence Against Women Reauthorization Act of 2013.
