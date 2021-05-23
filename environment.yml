@@ -1,0 +1,32 @@
+name: ppua6202
+channels:
+  - conda-forge
+  
+dependencies:
+  - beautifulsoup4
+  - bokeh
+  - bottleneck
+  - cartopy
+  - contextily
+  - folium
+  - geopandas
+  - jupyterlab
+  - mapclassify
+  - matplotlib
+  - networkx
+  - numexpr
+  - numpy
+  - osmnx
+  - pandas
+  - pandana
+  - pillow
+  - pip
+  - pyproj
+  - pysal
+  - python == 3.*
+  - rasterio
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - textblob
