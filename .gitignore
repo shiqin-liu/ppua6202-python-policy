@@ -3,6 +3,7 @@
 .gitattributes
 
  *.pdf
+ *-solution*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
