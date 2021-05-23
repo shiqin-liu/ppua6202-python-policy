@@ -3,7 +3,7 @@
 .gitattributes
 
  *.pdf
- *-solution*
+ *-solution.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
